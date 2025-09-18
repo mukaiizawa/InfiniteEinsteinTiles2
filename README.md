@@ -1,12 +1,12 @@
 # Infinite Einstein Tiles
 This is the source code for Infinite Einstein Tiles2!
 
-[![Infinite Einstein Tiles2 Logo](./Logo.png)](https://store.steampowered.com/app/3550470/Infinite_Einstein_Tiles/)
+[![Infinite Einstein Tiles2 Logo](./Logo.png)](https://store.steampowered.com/app/3893930/Infinite_Einstein_Tiles2/)
 
 ## Building
-Infinite Einsten Tiles is a game made in unity. Clone the repository and import it into unity; there are many detailed instructions on the web on how to run this in unity, so I won't go into them here.
+Infinite Einsten Tiles2 is a game made in unity. Clone the repository and import it into unity; there are many detailed instructions on the web on how to run this in unity, so I won't go into them here.
 
-If you are unable to do so, please consider purchasing on [Steam](https://store.steampowered.com/app/3550470/Infinite_Einstein_Tiles/).
+If you are unable to do so, please consider purchasing on [Steam](https://store.steampowered.com/app/3893930/Infinite_Einstein_Tiles2/).
 
 ### Unity Version
 - 6000.0.35f1
