@@ -1,4 +1,4 @@
-# Infinite Einstein Tiles
+# Infinite Einstein Tiles2
 This is the source code for Infinite Einstein Tiles2!
 
 [![Infinite Einstein Tiles2 Logo](./Logo.png)](https://store.steampowered.com/app/3893930/Infinite_Einstein_Tiles2/)
