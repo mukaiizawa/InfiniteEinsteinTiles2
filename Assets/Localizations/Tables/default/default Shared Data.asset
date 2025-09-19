@@ -15,6 +15,10 @@ MonoBehaviour:
   m_TableCollectionName: default
   m_TableCollectionNameGuidString: d545b90e5be3a914f940bc5b44a565dd
   m_Entries:
+  - m_Id: 47837107368271872
+    m_Key: demo_notice
+    m_Metadata:
+      m_Items: []
   - m_Id: 10158687322939393
     m_Key: zoom
     m_Metadata:

@@ -318,6 +318,14 @@ MonoBehaviour:
     m_Localized: Zoom
     m_Metadata:
       m_Items: []
+  - m_Id: 47837107368271872
+    m_Localized: "Wersja demonstracyjna jest identyczna z pe\u0142n\u0105 wersj\u0105,
+      z wyj\u0105tkiem tego, \u017Ce osi\u0105gni\u0119cia nie s\u0105 dost\u0119pne.
+      Oznacza to, \u017Ce mo\u017Cesz zagra\u0107 we wszystkie zagadki zawarte w
+      pe\u0142nej wersji. Ponadto dane zapisu s\u0105 wsp\xF3lne z pe\u0142n\u0105
+      wersj\u0105."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

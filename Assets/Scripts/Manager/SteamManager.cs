@@ -9,8 +9,9 @@ public class SteamManager : MonoBehaviour
 {
 
     public static SteamManager _instance;
+    public static uint _demoAppId = 3893930;
+    public static uint _productAppId = 4043400;
 
-    uint _appId = 3893930;
     bool _connected = false;
     int _achievementCount = GlobalData.TotalLevel + 1;    // Each level and all cleared. 1 to 29.
 
@@ -27,7 +28,11 @@ public class SteamManager : MonoBehaviour
         }
         try
         {
-            SteamClient.Init(_appId);
+#if DEMO
+            SteamClient.Init(_demoAppId);
+#else
+            SteamClient.Init(_productAppId);
+#endif
             _connected = true;
         }
         catch (Exception e)

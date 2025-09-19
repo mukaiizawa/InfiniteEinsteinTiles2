@@ -93,6 +93,7 @@ public class MenuSceneManager : MonoBehaviour
     public Button SolutionsOpenButton;
     public Button SolutionsCloseButton;
     public Button QuitButton;
+    public GameObject DemoNoticePanel;
 
     State _state;
     AssetManager _assetManager;
@@ -193,6 +194,9 @@ public class MenuSceneManager : MonoBehaviour
         SettingOpenButton.onClick.AddListener(() => ChangeState(State.Setting));
         SettingCloseButton.onClick.AddListener(() => ChangeState(State.Menu));
         QuitButton.onClick.AddListener(OnPowerOff);
+#if DEMO
+        DemoNoticePanel.SetActive(true);
+#endif
         ChangeState(State.None);
     }
 

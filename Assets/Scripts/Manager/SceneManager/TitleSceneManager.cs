@@ -14,6 +14,7 @@ public class TitleSceneManager : MonoBehaviour
 
     public Button ContinueButton;
     public TextMeshProUGUI VersionText;
+    public GameObject DemoLabel;
 
     AudioManager _audioManager;
     AssetManager _assetManager;
@@ -39,6 +40,9 @@ public class TitleSceneManager : MonoBehaviour
         LocalizationSettings.InitializationOperation.WaitForCompletion();
         StartCoroutine(SetLocaleAsync(_persistentManager.GetLocale()));
         VersionText.text = $"Version {Application.version}";
+#if DEMO
+        DemoLabel.SetActive(true);
+#endif
     }
 
     float _fadeDulation = 2f;

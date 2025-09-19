@@ -319,6 +319,13 @@ MonoBehaviour:
     m_Localized: Zoom
     m_Metadata:
       m_Items: []
+  - m_Id: 47837107368271872
+    m_Localized: "La versi\xF3n de demostraci\xF3n es id\xE9ntica a la versi\xF3n
+      completa, salvo que los logros no est\xE1n disponibles. Esto significa que
+      puedes jugar todos los rompecabezas incluidos en la versi\xF3n completa. Adem\xE1s,
+      los datos guardados son comunes con la versi\xF3n completa."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

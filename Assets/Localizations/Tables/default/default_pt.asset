@@ -316,6 +316,14 @@ MonoBehaviour:
     m_Localized: Zoom
     m_Metadata:
       m_Items: []
+  - m_Id: 47837107368271872
+    m_Localized: "A vers\xE3o demo \xE9 id\xEAntica \xE0 vers\xE3o completa, exceto
+      pelo fato de que as conquistas n\xE3o est\xE3o dispon\xEDveis. Isso significa
+      que voc\xEA pode jogar todos os quebra-cabe\xE7as inclu\xEDdos na vers\xE3o
+      completa. Al\xE9m disso, os dados de salvamento s\xE3o compartilhados com a
+      vers\xE3o completa."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -331,6 +331,12 @@ MonoBehaviour:
     m_Localized: Zoom
     m_Metadata:
       m_Items: []
+  - m_Id: 47837107368271872
+    m_Localized: The demo version is identical to the full version except that achievements
+      are not available. This means you can play all the puzzles included in the
+      full version. In addition, save data is shared with the full version.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

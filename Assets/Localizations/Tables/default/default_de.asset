@@ -326,6 +326,13 @@ MonoBehaviour:
     m_Localized: Zoom
     m_Metadata:
       m_Items: []
+  - m_Id: 47837107368271872
+    m_Localized: "Die Demoversion ist mit der Vollversion identisch, au\xDFer dass
+      Erfolge nicht verf\xFCgbar sind. Das bedeutet, dass Sie alle R\xE4tsel der
+      Vollversion spielen k\xF6nnen. Au\xDFerdem werden die Spieldaten mit der Vollversion
+      gemeinsam genutzt."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

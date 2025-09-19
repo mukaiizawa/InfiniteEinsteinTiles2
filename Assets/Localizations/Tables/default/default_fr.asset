@@ -317,6 +317,13 @@ MonoBehaviour:
     m_Localized: Zoom
     m_Metadata:
       m_Items: []
+  - m_Id: 47837107368271872
+    m_Localized: "La version de d\xE9monstration est identique \xE0 la version compl\xE8te,
+      \xE0 l\u2019exception des succ\xE8s qui ne sont pas disponibles. Cela signifie
+      que vous pouvez jouer \xE0 toutes les \xE9nigmes incluses dans la version compl\xE8te.
+      De plus, les donn\xE9es de sauvegarde sont communes avec la version compl\xE8te."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

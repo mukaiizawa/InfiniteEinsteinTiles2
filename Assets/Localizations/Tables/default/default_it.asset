@@ -319,6 +319,13 @@ MonoBehaviour:
     m_Localized: Zoom
     m_Metadata:
       m_Items: []
+  - m_Id: 47837107368271872
+    m_Localized: "La versione demo \xE8 identica a quella completa, tranne per il
+      fatto che gli obiettivi non sono disponibili. Ci\xF2 significa che puoi giocare
+      a tutti i puzzle inclusi nella versione completa. Inoltre, i dati di salvataggio
+      sono condivisi con la versione completa."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
