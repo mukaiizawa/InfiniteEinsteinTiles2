@@ -331,8 +331,8 @@ public class MenuSceneManager : MonoBehaviour
         if (isOn)
         {
             StartCoroutine(ChangeLocale(_langCodes[i]));
+            LanguagePanel.SetActive(false);
         }
-        LanguagePanel.SetActive(false);
     }
 
     public void OnDebug(InputAction.CallbackContext context)
