@@ -9,7 +9,7 @@ Infinite Einsten Tiles2 is a game made in unity. Clone the repository and import
 If you are unable to do so, please consider purchasing on [Steam](https://store.steampowered.com/app/3893930/Infinite_Einstein_Tiles2/).
 
 ### Unity Version
-- 6000.0.35f1
+- 6000.4.6f1
 
 ## Contributing
 This repository is entirely community-operated. This means you can help by submitting bug reports, reviewing other people's code, contributing your own code, and so on.
